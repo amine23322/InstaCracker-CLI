@@ -7,7 +7,7 @@ import time
 
 
 
-def insta_dict(username, wordlist):
+def insta_dict(djenane.amine5, wordlist):
   spam_bool = 1
   c_spam = 0
 
